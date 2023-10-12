@@ -57,7 +57,60 @@ nav ul li:hover{
 /* third division */
 .main{
     display: flex;
-    gap: 10px;
+    gap: 30px;
     margin-left: 10px;
+    margin-top: 20px;
+    justify-content: space-around;
 }
-
+.container4{
+    display: flex;
+    gap: 10px;
+    justify-content: space-around;
+}
+.container5{
+    display: flex;
+    gap: 10px;
+    justify-content: space-around;
+}
+.button2{
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+.container6{
+    text-align: center;
+}
+h2{
+    margin-left: 35px;
+}
+h3{
+    margin-left: 135px;
+}
+.container7{
+    display: flex;
+    justify-content: space-around;
+}
+.button3{
+    background-color: red;
+    color: white;
+    text-align: center;
+    margin-left: 89px;
+    margin-top: 10px;
+}
+.m7contain{
+    margin-top: 150px;
+}
+.container8{
+    display: flex;
+    justify-content: space-around;
+}
+.m8contain{
+    margin-top: 150px;
+}
+.m9contain{
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: red;
+    color: white;
+    padding: 15px;
+}
