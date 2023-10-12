@@ -1,0 +1,63 @@
+.mainclass{
+    height: 80px;
+    width: 100%;
+    background-color: antiquewhite;
+    display:flex ;
+    align-items: center;
+    justify-content: space-around;
+}
+nav ul{
+    
+        list-style: none;
+        display: flex;
+        gap: 29px;
+}
+nav ul li
+{
+    display: inline-block;
+
+}
+.icon{
+   display: flex; 
+   gap: 10px;}
+.ic{
+    display: flex;
+    gap: 34px;
+    }
+.ic i:hover{
+    color: red;
+}
+nav ul li:hover{
+    color: brown;
+}  
+/* second division */
+.main2 {
+    display: flex;
+    gap: 100px;
+    background-color: lightblue;
+    height: 1096px;
+    width: 935px;
+    margin-left: 10px;
+}
+.second1{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 90px;
+    margin-top: 70px;
+}
+
+.button1{
+    background-color: black;
+    color: white;
+    padding:20px;
+}
+.image1{
+    height: 200px;
+    width: 146px;
+}
+/* third division */
+.main{
+    display: flex;
+    gap: 10px;
+    margin-left: 10px;
+}
+
